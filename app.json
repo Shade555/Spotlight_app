@@ -37,6 +37,11 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "EXPO_PUBLIC_PUBLISHABLE_KEY": "pk_test_cmVmaW5lZC1nbGlkZXItNTQuY2xlcmsuYWNjb3VudHMuZGV2JA",
+      "EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY": "pk_test_cmVmaW5lZC1nbGlkZXItNTQuY2xlcmsuYWNjb3VudHMuZGV2JA",
+      "EXPO_PUBLIC_CONVEX_URL":"https://striped-ermine-213.convex.cloud"
     }
   }
 }
